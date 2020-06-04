@@ -6,4 +6,4 @@ Due to upload size restrictions, the LSTM model h5 file cannot be uploaded, the 
 #### LSTM prediction example
 ![](images/LSTM_prediction.PNG)
 #### 6 ML classifier prediction example
-![](images/6_model_prediction.PNG
+![](images/6_model_prediction.PNG)
